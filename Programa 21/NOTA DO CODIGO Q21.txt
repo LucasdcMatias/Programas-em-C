@@ -1,0 +1,8 @@
+é inserido o valor do produto
+
+temos desconto que é o valor do produto vezes o valor do desconto que é 0,09
+para saber quanto vai ser o desconto
+
+temos o novo valor que é o valor original menos o desconto
+
+ai por fim é impresso o valor do desconto e o novo valor do produto com o desconto

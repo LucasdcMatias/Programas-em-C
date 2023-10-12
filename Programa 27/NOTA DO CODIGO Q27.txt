@@ -1,0 +1,5 @@
+é salvo o numero e denominador
+em float o decimal
+
+requerido o numeroador e denominador e inserido em decimal, aplicado na formula
+é impresso em seguida em decimal
