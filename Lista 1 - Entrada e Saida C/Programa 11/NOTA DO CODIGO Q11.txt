@@ -1,0 +1,6 @@
+é pedido um numero para que depois seja informado seu antecessor e o sucessor
+
+para o antecessor é o numero menos 1
+e para o sucessor é o numero mais 1
+
+por fim é impresso ambas informações

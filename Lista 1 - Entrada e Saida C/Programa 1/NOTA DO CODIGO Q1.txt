@@ -1,0 +1,11 @@
+Usei int n
+float an, ak e r
+
+Primeiramente pedir que fosse digitado a razao da PA
+onde seria armazenado no &r dentro do float (%f)
+Em seguida o a1 da PA no &ak
+Por fim o termo da PA no &n
+
+Em seguida vem a formula an
+puxei os dados armazenados no r, ak e n
+E no final a resposta da fomula

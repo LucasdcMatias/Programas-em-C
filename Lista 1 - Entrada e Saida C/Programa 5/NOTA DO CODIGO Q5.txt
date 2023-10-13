@@ -1,0 +1,9 @@
+Usei int para armazenar n
+onde n é o numero de termos
+float para an, a1 e q onde an é a formula, a1 é o primeiro termo e Q é a razao
+
+na formula usei pow para poder elevar o "n-1" na variavel Q
+
+ficando an = a1 * q ^ n-1
+
+e por fim, imprimir o resultado "O (termo escolhido da PG) termo da PG eh: (%f = an)"
