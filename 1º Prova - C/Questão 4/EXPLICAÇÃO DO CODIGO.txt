@@ -1,0 +1,4 @@
+usado double para uma precisão de casas maior
+for para realizar a repetição da operação matematica até o fim
+operação matematica pi += operador*4/(3+2*i))
+por fim, resultado do valor de pi é impresso na tela

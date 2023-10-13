@@ -1,0 +1,13 @@
+É pedido o peso e a altura para o usuario
+
+salvo nas variaveis massa e altura.
+
+é aplicado na formula imc = massa / altura² (altura * altura)
+
+*if* para *se* o resultado do imc der menor que 20, aparece a informação
+que a pessoa esta abaixo do peso
+
+else if *se não*, aparecer que o peso esta normal *se* o resultado do imc der maior igual
+a 20 e menor que 25
+
+esse mesmo raciocinio se repete até o fim que é o obeso morbido

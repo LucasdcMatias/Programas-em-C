@@ -1,0 +1,15 @@
+Fazendo a switch case para cada forma geometrica fiz um menu onde o usuario
+escolheria uma opção de acordo com o menu, entraria na case, a case iria pedir
+as informações necessarias para realizar o caculo da area e do perimetro
+apos o termino da operação é questionado ao usuario se ele deseja continuar
+ou se ele quer sair, caso ele decida continuar, é apresentado novemente o menu
+para ele escolher uma opção
+
+case 1 (quadrado)
+informar a base do quadrado bquadrado para calcular area e perimetro
+operação matematica areaq = bquadrado² (bquadrado * bquadrado)
+perimetroq (perimetro quadrado) = 4 * bquadrado
+
+as demais cases vão seguindo o mesmo raciocinio, mudando somente a fomula
+circulo e triangulo
+

@@ -1,0 +1,15 @@
+Usei as variaveis mesas, valor, gorjeta, soma = 0, g = 0 e i = 0
+
+dei printf dizendo "Digite a quantidade de mesas" para que o usuario informe
+scanf para salvar a informar, que nesse caso foi salva na variavel mesas
+
+dei novamente printf para que o usuario informace o valor gasto em cada mesa
+
+usei o "do while" para que fosse feito a operação matematica todas vez
+que fosse informado o valor gasto pela mesa onde dizia em seguida a
+gorjeta do garçom.
+
+ao final das 5 mesas é feito a soma total dos valores gastos por cada cliente
+e a gorgeta total que o garçom recebeu (usando a informação da soma dos laços
+i++ e da operação matematica gorjeta)
+
