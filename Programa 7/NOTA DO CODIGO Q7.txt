@@ -1,8 +1,0 @@
-armazenei em int o M da fomula M=N%1000 e N para guardar a numeração da placa
-
-quando se tem na formula M = N % 1000 quer dizer M = N (numero da placa) 
-modulo/resto de 1000, repete por 100 e em seguida divide por 10 para que dessa forma
-a placa seja digitava em sequencia para nao precisar dar enter depois de cada digito
-e revelar qual o numero da casa das dezenas
-
-por fim é impresso o numero das dezenas inteiro (%i) da formula M

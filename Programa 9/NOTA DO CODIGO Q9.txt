@@ -1,2 +1,0 @@
-para saber a casa do milhar é digitado a placa de 4 digitos
-depois é dividido por 1000 para que no final aparece o primeiro termo

@@ -1,3 +1,0 @@
-é pedido o termo antecessor, sucessor
-
-soma os dois e divide por dois e por fim temos a média impressa

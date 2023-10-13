@@ -1,2 +1,0 @@
-é pedido um numero para depois ele ser divido por 3 e o resultado é a terça
-parte desse numero que é impresso

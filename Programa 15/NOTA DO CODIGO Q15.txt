@@ -1,2 +1,0 @@
-é pedido os dois valores, eles sao somados e depois divido por dois para se ter
-a média
