@@ -1,9 +1,0 @@
-Pedi que fosse digitado dois numeros
-
-usei a2 e b2 pra ser o quadrado, a x a = a2
-
-usei raizA e raizB (comando pra raiz é sqrt(a ou b))
-
-if para se a>b e a<b
-
-por fim os prints dos resultados

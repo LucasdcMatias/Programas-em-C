@@ -1,8 +1,0 @@
-Armazenando um numero qualquer para verificar se é divisivel por 10, 5 ou 2
-
-então temos
-
-se num divisivel por 10 ou 5 ou 2 e for igual a 0
-print Divisivel
-se não
-Não é Divisivel

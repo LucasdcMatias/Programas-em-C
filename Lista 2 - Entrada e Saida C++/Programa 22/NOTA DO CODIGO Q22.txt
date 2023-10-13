@@ -1,9 +1,0 @@
-é dido o saldo medio
-
-foi usado if e else if (se e senao se)
-
-aplicando essas condições conforme a tabela no enunciado
-
-usando as funções senao se
-
-é impresso o saldomedio e o valor do credito

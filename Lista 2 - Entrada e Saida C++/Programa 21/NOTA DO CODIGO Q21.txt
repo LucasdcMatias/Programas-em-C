@@ -1,6 +1,0 @@
-é salvo massa e algura da pessoa
-
-na formula é usado o imc = massa / altura * altura
-
-caso o resulturado de maior ou igual a 20 e menor que 25 esta Abaixo do peso
-e se não entra na proxima condição e assim por diante
