@@ -1,0 +1,4 @@
+É pedido o primeiro termo da pg, razao e o n-essimo termo
+
+se aplica na formula, foi usado pow para elevar pois a formula tem potencia
+e por fim é lançado o resultado do calculo

@@ -1,0 +1,8 @@
+saber quando minutos ja se passaram depois das 00 horas
+
+uma hora tem 60 minutos,
+
+é pedido para informar a hora, depois é jogado na formula
+minutos = hora informada * 60
+
+então sai o resultado de quantos minutos desde de 00 horas

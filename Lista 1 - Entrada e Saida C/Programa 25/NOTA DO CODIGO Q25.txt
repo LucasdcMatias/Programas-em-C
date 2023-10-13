@@ -1,0 +1,6 @@
+Digite a temperatura
+
+é armazenado em C
+
+e em seguida é feito a formula e armazenado em f, por fim, printf para exibir o calculo
+em fahrenheit
